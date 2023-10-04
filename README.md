@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YolandaWolf
-- 📫 How to reach me Wolfaardty@gmail.com 
+- 📫 How to reach me Yolanda@juru.co.za
 
 <!---
 YolandaWolf/YolandaWolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
